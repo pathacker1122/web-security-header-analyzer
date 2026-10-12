@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated reports
+report.json
+*.report.json
+
+# Test and coverage files
+.coverage
+htmlcov/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
